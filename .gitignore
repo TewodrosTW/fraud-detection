@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / shared
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data
+data/raw/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python envs
+.env
+.venv
+
+# pytest cache
+.pytest_cache/
+
+# models
+src/models/
+
+# logs
+logs/
